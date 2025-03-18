@@ -1,12 +1,11 @@
 # Jaena Yu
-<h2 align="center">🔥 Welcome to My GitHub 🔥</h2>
+Sangmyung Univ. 
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 
 #### 과제 하는 중 ...
 
