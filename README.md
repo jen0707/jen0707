@@ -7,7 +7,7 @@ Sangmyung Univ. 💼 Business Administration & 💻 Computer Science (Double Maj
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-#### Doing assignments ...
+## 👩🏻‍💻 Doing assignments ...
 Mainly upload my assignments 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jen0707&show_icons=true&theme=tokyonight)
