@@ -1,5 +1,5 @@
 ## Jaena Yu
-live in Seoul, Korea
+live in Seoul, Korea \n
 Sangmyung Univ. 💼 Business Administration & 💻 Computer Science (Double Major)
 
 ## 🛠️ Tech Stack
