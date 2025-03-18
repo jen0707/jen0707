@@ -1,4 +1,4 @@
-## Jaena Yu
+# Jaena Yu
 Sangmyung Univ. 💼 Business Administration & 💻 Computer Science (Double Major) (2023-)
 
 ## 🛠️ Tech Stack
