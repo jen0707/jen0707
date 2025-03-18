@@ -1,5 +1,4 @@
 # Jaena Yu
-### Jen0707
 Sangmyung Univ. 💼 Business Administration & 💻 Computer Science (Double Major) (2023-)
 
 ## 🛠️ Tech Stack
