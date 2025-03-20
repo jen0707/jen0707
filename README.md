@@ -1,5 +1,6 @@
 # Jaena Yu
-Sangmyung Univ. 💼 Business Administration & 💻 Computer Science (Double Major) (2023-)
+Sangmyung Univ. (Seoul, Korea) (2023-)
+💼 Business Administration & 💻 Computer Science (Double Major)
 
 ## 🛠️ Tech Stack
 ### Actuallly I'm studying ...
